@@ -1,0 +1,122 @@
+[
+  {
+    "n": 1,
+    "id": "2606.00133",
+    "url": "https://arxiv.science/abs/2606.00133",
+    "title": "World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications",
+    "date": "2026-05-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "N/A",
+    "url": "https://en.wikipedia.org/wiki/World_model_(artificial_intelligence)",
+    "title": "World model (artificial intelligence) - Wikipedia",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2606.12783",
+    "url": "https://arxiv.org/abs/2606.12783",
+    "title": "A Tutorial on World Models and Physical AI",
+    "date": "2026-06-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2610.12468",
+    "url": "https://arxiv.org/abs/2610.12468",
+    "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2610.12457",
+    "url": "https://arxiv.org/abs/2610.12457",
+    "title": "SpatialHarness: Test-Time Spatial Scaffolding for Fine Robotic Manipulation",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2610.12459",
+    "url": "https://arxiv.org/abs/2610.12459",
+    "title": "WorldGuide: Goal-Directed Video World Model for Procedural Task Execution",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2610.12461",
+    "url": "https://arxiv.org/abs/2610.12461",
+    "title": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2602.00785v1",
+    "url": "https://arxiv.org/pdf/2602.00785v1",
+    "title": "World Models as an Intermediary between Agents and the Real World",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2602.08025",
+    "url": "https://huggingface.co/papers/2602.08025",
+    "title": "MIND: Benchmarking Memory Consistency and Action Control in World Models",
+    "date": "2026-02-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "2410.13232",
+    "url": "https://huggingface.co/papers/2410.13232",
+    "title": "Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation",
+    "date": "2024-10-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "2405.15223",
+    "url": "https://huggingface.co/papers/2405.15223",
+    "title": "Interactive VideoGPT: Interactive VideoGPTs are Scalable World Models",
+    "date": "2024-05-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 12,
+    "id": "2605.00412",
+    "url": "https://huggingface.co/papers/2605.00412",
+    "title": "Physically Native World Models: A Hamiltonian Perspective on Generative World Modeling",
+    "date": "2026-05-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 13,
+    "id": "2603.02697",
+    "url": "https://huggingface.co/papers/2603.02697",
+    "title": "ShareVerse: Multi-Agent Consistent Video Generation for Shared World Modeling",
+    "date": "2026-03-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "2409.15730",
+    "url": "https://huggingface.co/papers/2409.15730",
+    "title": "Learning Multiple Probabilistic Decisions from Latent World Model in Autonomous Driving",
+    "date": "2024-09-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "2405.03520",
+    "url": "https://huggingface.co/papers/2405.03520",
+    "title": "Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond",
+    "date": "2024-05-06",
+    "source": "hf-search"
+  }
+]

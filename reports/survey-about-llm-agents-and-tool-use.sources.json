@@ -1,0 +1,130 @@
+[
+  {
+    "n": 1,
+    "id": "2610.11647",
+    "url": "https://arxiv.org/abs/2610.11647",
+    "title": "One Skill Too Many: How Co-Installed Skills Conflict in Coding Agents",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2610.11559",
+    "url": "https://arxiv.org/abs/2610.11559",
+    "title": "SWE-Journey: Towards More Realistic Evaluation of Coding Assistants through Long-Horizon, Multi-Turn Interaction",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2610.11373",
+    "url": "https://arxiv.org/abs/2610.11373",
+    "title": "From a Prompt to Repertoires: Evolving Functional REpertoires Enable LLM Continual Learning",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2610.10942",
+    "url": "https://arxiv.org/abs/2610.10942",
+    "title": "StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents",
+    "date": "2026-10-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2610.07261",
+    "url": "https://arxiv.org/abs/2610.07261",
+    "title": "Verifying Coordination in Parallel Coding Agents: NP-Bench and a Scheduling Planner",
+    "date": "2026-10-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2026.acl-long.1573",
+    "url": "https://aclanthology.org/2026.acl-long.1573.pdf",
+    "title": "ToolScope: Enhancing LLM Agent Tool Use through Tool Merging and Context-Aware Filtering",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2603.22862v1",
+    "url": "https://arxiv.org/html/2603.22862v1",
+    "title": "The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "2609.01736",
+    "url": "https://arxiv.org/abs/2609.01736",
+    "title": "Harness Engineering in LLM Tool Use via Agent-Native Reusable Tool Primitives",
+    "date": "2026-09-01",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2026.acl-long.1",
+    "url": "https://aclanthology.org/2026.acl-long.1.pdf",
+    "title": "OctoTools: A Multi-Agent Framework with Extensible Tools for Complex Reasoning",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "2025.findings-acl.811",
+    "url": "https://aclanthology.org/2025.findings-acl.811.pdf",
+    "title": "ToolExpNet: Optimizing Multi-Tool Selection in LLMs with Similarity and Dependency-Aware Experience Networks",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "2601.07504",
+    "url": "https://huggingface.co/papers/2601.07504",
+    "title": "FROAV: A Framework for RAG Observation and Agent Verification -- Lowering the Barrier to LLM Agent Research",
+    "date": "2026-01-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 12,
+    "id": "2402.15538",
+    "url": "https://huggingface.co/papers/2402.15538",
+    "title": "AgentLite: A Lightweight Library for Building and Advancing Task-Oriented LLM Agent System",
+    "date": "2024-02-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 13,
+    "id": "2403.04746",
+    "url": "https://huggingface.co/papers/2403.04746",
+    "title": "LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error",
+    "date": "2024-03-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "2501.12851",
+    "url": "https://huggingface.co/papers/2501.12851",
+    "title": "ACEBench: Who Wins the Match Point in Tool Usage?",
+    "date": "2025-01-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "2311.10775",
+    "url": "https://huggingface.co/papers/2311.10775",
+    "title": "ToolTalk: Evaluating Tool-Usage in a Conversational Setting",
+    "date": "2023-11-15",
+    "source": "hf-search"
+  },
+  {
+    "n": 16,
+    "id": "2412.05967",
+    "url": "https://huggingface.co/papers/2412.05967",
+    "title": "Language hooks: a modular framework for augmenting LLM reasoning that decouples tool usage from the model and its prompt",
+    "date": "2024-12-08",
+    "source": "hf-search"
+  }
+]

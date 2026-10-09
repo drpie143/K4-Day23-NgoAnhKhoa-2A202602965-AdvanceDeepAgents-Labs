@@ -1,0 +1,66 @@
+[
+  {
+    "n": 1,
+    "id": "2610.12061",
+    "url": "https://arxiv.org/abs/2610.12061",
+    "title": "When Should Agents Think? Adaptive Reasoning via Cross-Turn Estimation",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2610.11502",
+    "url": "https://arxiv.org/abs/2610.11502",
+    "title": "Fed-GRPO: Reward-Signal-Driven Federated Group Relative Policy Optimization",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2504.20834",
+    "url": "https://huggingface.co/papers/2504.20834",
+    "title": "Reinforcement Learning for LLM Reasoning Under Memory Constraints",
+    "date": "2025-04-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2506.14965",
+    "url": "https://huggingface.co/papers/2506.14965",
+    "title": "Revisiting Reinforcement Learning for LLM Reasoning from A Cross-Domain Perspective",
+    "date": "2025-06-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "PMC12546433",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12546433/",
+    "title": "Toward large reasoning models: A survey of reinforced reasoning",
+    "date": "2025-10-01",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "10.1145/3837057?af=R",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3837057?af=R",
+    "title": "Reinforcement Learning in the Era of Large Language Models: Challenges and Opportunities",
+    "date": "2026-09-29",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2402.05808",
+    "url": "https://huggingface.co/papers/2402.05808",
+    "title": "Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning",
+    "date": "2024-02-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2502.10886",
+    "url": "https://huggingface.co/papers/2502.10886",
+    "title": "MET-Bench: Multimodal Entity Tracking for Evaluating the Limitations of Vision-Language and Reasoning Models",
+    "date": "2026-06-12",
+    "source": "hf-search"
+  }
+]

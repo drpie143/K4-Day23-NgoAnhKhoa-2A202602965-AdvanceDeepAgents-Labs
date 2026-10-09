@@ -1,0 +1,90 @@
+[
+  {
+    "n": 1,
+    "id": "2607.16100",
+    "url": "https://arxiv.org/abs/2607.16100",
+    "title": "Every Microsecond Matters: Achieving Near Speed-of-Light Latency in GPU Collectives",
+    "date": "2026-07-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2602.01274",
+    "url": "https://arxiv.org/abs/2602.01274",
+    "title": "PACER: Blockwise Pre-verification for Speculative Decoding with Adaptive Length",
+    "date": "2026-02-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2602.24174v1",
+    "url": "https://arxiv.org/html/2602.24174v1",
+    "title": "Task-Centric Acceleration of Small-Language Models",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "10.1145/3801487.3805608",
+    "url": "https://dl.acm.org/doi/full/10.1145/3801487.3805608",
+    "title": "MobileLLM: Efficient Language Models for Edge Devices",
+    "date": "2026-06-27",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "2502.11569",
+    "url": "https://huggingface.co/papers/2502.11569",
+    "title": "Towards Reasoning Ability of Small Language Models",
+    "date": "2025-02-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2505.19529",
+    "url": "https://huggingface.co/papers/2505.19529",
+    "title": "Small Language Models: Architectures, Techniques, Evaluation, Problems and Future Adaptation",
+    "date": "2025-05-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2410.20011",
+    "url": "https://huggingface.co/papers/2410.20011",
+    "title": "A Survey of Small Language Models",
+    "date": "2024-10-25",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2610.08858",
+    "url": "https://arxiv.org/abs/2610.08858",
+    "title": "LRCC: Generalizing Low-Rank Compression with Conditional Computation",
+    "date": "2026-10-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2610.02882",
+    "url": "https://arxiv.org/abs/2610.02882",
+    "title": "DyRA: Dynamic Residual Approximation for Efficient Matrix Multiplication in DNNs",
+    "date": "2026-10-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2405.20347",
+    "url": "https://huggingface.co/papers/2405.20347",
+    "title": "Small Language Models for Application Interactions: A Case Study",
+    "date": "2024-05-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "2412.13337",
+    "url": "https://huggingface.co/papers/2412.13337",
+    "title": "Unveiling the Secret Recipe: A Guide For Supervised Fine-Tuning Small LLMs",
+    "date": "2024-12-17",
+    "source": "hf-search"
+  }
+]
